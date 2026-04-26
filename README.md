@@ -12,6 +12,11 @@ Here’s a **clean, copy-paste-ready README.md** (no extra formatting, no distra
 An intelligent **multi-agent enterprise assistant** that automates HR and travel workflows using **Amazon Bedrock Agents** and a cloud-native architecture.
 
 ---
+## Architecture
+
+<img width="1636" height="804" alt="Screen Recording 2026-04-26 at 8 11 45 PM" src="https://github.com/user-attachments/assets/e6d19865-9eec-438e-8d83-3610cf2dfe00" />
+
+
 
 ## 📌 Overview
 
