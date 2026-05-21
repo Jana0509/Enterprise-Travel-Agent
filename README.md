@@ -1,8 +1,5 @@
 # Enterprise-Travel-Agent
 AI-Powered Multi-Agent System using Amazon Bedrock
-
-Here’s a **clean, copy-paste-ready README.md** (no extra formatting, no distractions):
-
 ---
 
 # 🚀 Enterprise Travel Agent
